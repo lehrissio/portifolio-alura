@@ -10,7 +10,6 @@
 Este projeto foi desenvolvido durante os seguintes cursos da [Alura](https://www.alura.com.br/):
 
 
-(Formação da Alura "[A partir do Zero: HTML e CSS para Projetos Web](https://cursos.alura.com.br/degree/certificate/2e85c664-e5e4-450f-9994-074e43c763e0?lang=pt_BR)")
 
 ### HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags.
 
@@ -114,3 +113,5 @@ Este projeto foi desenvolvido durante os seguintes cursos da [Alura](https://www
     - Subir o projeto para o repositório;
     - Criar uma conta na Vercel;
     - Colocar o projeto no ar e compartilhar com o mundo.
+
+(Cursos pertencentes à Formação da Alura "[A partir do Zero: HTML e CSS para Projetos Web](https://cursos.alura.com.br/degree/certificate/2e85c664-e5e4-450f-9994-074e43c763e0?lang=pt_BR)")
