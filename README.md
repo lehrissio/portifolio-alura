@@ -107,11 +107,9 @@ Este projeto foi desenvolvido durante os seguintes cursos da [Alura](https://www
     - O que é a media query;
     - O que é a responsividade;
     - Como adaptar nosso site para diferentes tamanhos de tela;
-    - A unidade de medida porcentagem é amiga da responsividade;
-    - O que é Git e GitHub;
-    - Criar o primeiro repositório no GitHub;
-    - Subir o projeto para o repositório;
-    - Criar uma conta na Vercel;
-    - Colocar o projeto no ar e compartilhar com o mundo.
+    - Unidade de medida porcentagem.
+    - Introdução ao Git e GitHub.
+    - Criação de repositório no GitHub.
+    - Publicação do projeto na Vercel.
 
 (Cursos pertencentes à Formação da Alura "[A partir do Zero: HTML e CSS para Projetos Web](https://cursos.alura.com.br/degree/certificate/2e85c664-e5e4-450f-9994-074e43c763e0?lang=pt_BR)")
