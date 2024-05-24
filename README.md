@@ -10,7 +10,7 @@
 Este projeto foi desenvolvido durante os seguintes cursos da [Alura](https://www.alura.com.br/):
 
 
-(Formação da Alura "A partir do Zero: HTML e CSS para Projetos Web")
+(Formação da Alura "[A partir do Zero: HTML e CSS para Projetos Web](https://cursos.alura.com.br/degree/certificate/2e85c664-e5e4-450f-9994-074e43c763e0?lang=pt_BR)")
 
 ### HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags.
 
