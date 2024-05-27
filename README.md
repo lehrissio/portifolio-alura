@@ -1,6 +1,7 @@
 # Projeto - Portifólio Alura
 
-![Portifolio - Responsive](https://github.com/lehrissio/portifolio-alura/assets/103052994/06965a65-dfe7-471a-a5db-0441f0dd61fb)
+![portifolio](https://github.com/lehrissio/portifolio-alura/assets/103052994/2657de28-c0ae-41d4-8593-e75eabe2bc1f)
+
 
 ## Ferramentas Utilizadas
   * HTML e CSS
