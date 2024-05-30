@@ -8,7 +8,7 @@ Possui uma página "Home" e "Sobre mim", que foi feita utilizando os conceitos d
 
 <div align="center">
   <a target="_blank" href="https://portifolio-alura-ten-eosin.vercel.app/">
-          <img width="90%" src="./assets/mockup.jpg" alt="portifolio">
+          <img width="90%" src="./assets/mockups.jpg" alt="portifolio">
   </a>
 </div>
 
