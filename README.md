@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto - Portifólio Alura+</h1>
+<h1 align="center"> Projeto - Portifólio</h1>
 
 <p align="center"> Este é um projeto desenvolvido durante as aulas de 4 cursos pertencentes formação da Alura <a href="https://cursos.alura.com.br/degree/certificate/2e85c664-e5e4-450f-9994-074e43c763e0?lang=pt_BR">A partir do Zero: HTML e CSS para Projetos Web</a><br>
 . Possui uma página "Home" e "Sobre mim", que foi feita utilizando os conceitos de Flexbox e com foco em responsividade para diversos tamanhos de tela. </p>
